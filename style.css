@@ -1,15 +1,15 @@
 @font-face {
     font-family: gilroy;
-    src: url(/font/Gilroy-Medium.otf);
+    src: url(/font/Gilroy-Medium.woff2);
 }
 
 @font-face {
     font-family: gilroy-bold;
-    src: url(/font/Gilroy-Bold.otf);
+    src: url(/font/Gilroy-Bold.woff2);
 }
 @font-face {
     font-family: mora;
-    src: url(/font/moranga.ttf);
+    src: url(/font/moranga.woff2);
 }
 
 ::selection{
